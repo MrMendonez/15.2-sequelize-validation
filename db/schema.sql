@@ -1,0 +1,1 @@
+CREATE DATABASE safe_entry_db;
